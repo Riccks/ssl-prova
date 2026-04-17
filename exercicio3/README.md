@@ -1,0 +1,1 @@
+A Chave Privada é o componente mais sensível de um certificado digital. Gerada através do algoritmo RSA de 2048 bits neste exercício, ela deve ser mantida em sigilo absoluto. Ela é usada para descriptografar dados que foram criptografados com a sua respectiva chave pública e para assinar digitalmente comunicações, garantindo a autenticidade do servidor.
