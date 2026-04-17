@@ -1,0 +1,1 @@
+O erro SSL_ERROR_RX_RECORD_TOO_LONG ocorre porque o comando python3 -m http.server inicia um servidor HTTP simples, que não possui suporte para a camada de segurança SSL/TLS. Ao tentarmos acessá-lo via HTTPS, o navegador espera um aperto de mão (handshake) criptografado, mas recebe texto puro, resultando na falha de interpretação do protocolo.
