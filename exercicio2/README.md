@@ -1,0 +1,1 @@
+A criação do diretório /etc/ssl/certificates serve para organizar os ativos de segurança do sistema. No Linux, o diretório /etc/ é destinado a arquivos de configuração global; portanto, armazenar certificados nesta pasta exige privilégios de superusuário (root/sudo), garantindo que usuários comuns não possam alterar as credenciais de segurança da máquina.
