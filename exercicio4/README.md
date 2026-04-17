@@ -1,0 +1,1 @@
+O CSR é um arquivo que contém a chave pública do servidor e informações de identificação (como nome, organização e localização). Ele funciona como uma 'ficha de inscrição' que é enviada para uma Autoridade Certificadora (CA). A CA verifica esses dados e, se válidos, utiliza o CSR para gerar o certificado assinado.
