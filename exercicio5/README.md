@@ -1,0 +1,1 @@
+Nesta etapa, geramos um certificado autoassinado (Self-Signed Certificate) com validade de 365 dias. Diferente de um certificado emitido por uma CA pública, este foi assinado com a nossa própria chave privada. Ele fornece criptografia para a conexão, mas não possui a garantia de confiança de terceiros, sendo ideal para ambientes de teste ou uso interno.
