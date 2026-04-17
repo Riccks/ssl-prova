@@ -1,0 +1,1 @@
+O protocolo SCP é uma forma de transferir arquivos entre hosts em uma rede de maneira segura, utilizando o SSH (Secure Shell) para a autenticação e criptografia do túnel de dados. Isso garante que, durante a transferência do certificado, os dados não sejam interceptados por ataques do tipo Man-in-the-Middle.
