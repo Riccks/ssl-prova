@@ -1,0 +1,1 @@
+A validação consiste em inspecionar os metadados do certificado gerado para garantir que as informações de 'Subject' (quem detém o certificado) e 'Issuer' (quem assinou) estão corretas. Através do comando openssl x509, podemos verificar tecnicamente a integridade do arquivo, sua data de validade e o algoritmo de assinatura utilizado.
